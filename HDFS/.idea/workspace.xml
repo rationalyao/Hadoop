@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1efd3dd5-577e-4a43-96b1-e2c83bdad3a1" name="默认" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsDelete.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="21" column="93" selection-start-line="21" selection-start-column="93" selection-end-line="21" selection-end-column="93" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsRename.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsListFiles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="880">
+              <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsJudge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="25" column="71" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsToHDFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsFromHDFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="27" column="85" selection-start-line="27" selection-start-column="85" selection-end-line="27" selection-end-column="85" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsReadBig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/hdfs-site.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/yy/hdfs/HDFSClient.java" />
+        <option value="$PROJECT_DIR$/target/classes/hdfs-site.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/yy/hdfs/HDFSIO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yy/hdfs/hdfs2/HdfsClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsDelete.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsRename.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsListFiles.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsJudge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsToHDFS.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsFromHDFS.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsReadBig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-14" />
+    <option name="y" value="-14" />
+    <option name="width" value="1944" />
+    <option name="height" value="1104" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HDFS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HDFS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HDFS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HDFS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HDFS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HDFS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HDFS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HDFS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HDFS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HDFS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HDFS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HDFS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yy" type="462c0819:PsiDirectoryNode" />
+              <item name="hdfs2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551940733396" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HdfsFromHDFS.testFromHDFS">
+    <configuration name="HdfsFromHDFS.testFromHDFS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HDFS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yy.hdfs2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="yy.hdfs2" />
+      <option name="MAIN_CLASS_NAME" value="yy.hdfs2.HdfsFromHDFS" />
+      <option name="METHOD_NAME" value="testFromHDFS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HdfsJudge.testJudge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HDFS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yy.hdfs2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="yy.hdfs2" />
+      <option name="MAIN_CLASS_NAME" value="yy.hdfs2.HdfsJudge" />
+      <option name="METHOD_NAME" value="testJudge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HdfsListFiles.testListFiles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HDFS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yy.hdfs2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="yy.hdfs2" />
+      <option name="MAIN_CLASS_NAME" value="yy.hdfs2.HdfsListFiles" />
+      <option name="METHOD_NAME" value="testListFiles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HdfsRename.testRename" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HDFS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yy.hdfs2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="yy.hdfs2" />
+      <option name="MAIN_CLASS_NAME" value="yy.hdfs2.HdfsRename" />
+      <option name="METHOD_NAME" value="testRename" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HdfsToHDFS.testToHDFS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HDFS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yy.hdfs2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="yy.hdfs2" />
+      <option name="MAIN_CLASS_NAME" value="yy.hdfs2.HdfsToHDFS" />
+      <option name="METHOD_NAME" value="testToHDFS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.HdfsRename.testRename" />
+      <item itemvalue="JUnit.HdfsListFiles.testListFiles" />
+      <item itemvalue="JUnit.HdfsJudge.testJudge" />
+      <item itemvalue="JUnit.HdfsToHDFS.testToHDFS" />
+      <item itemvalue="JUnit.HdfsFromHDFS.testFromHDFS" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HdfsFromHDFS.testFromHDFS" />
+        <item itemvalue="JUnit.HdfsToHDFS.testToHDFS" />
+        <item itemvalue="JUnit.HdfsJudge.testJudge" />
+        <item itemvalue="JUnit.HdfsListFiles.testListFiles" />
+        <item itemvalue="JUnit.HdfsRename.testRename" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1efd3dd5-577e-4a43-96b1-e2c83bdad3a1" name="默认" comment="" />
+      <created>1551770719332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551770719332</updated>
+      <workItem from="1551770725153" duration="11474000" />
+      <workItem from="1551850278289" duration="12434000" />
+      <workItem from="1551914757799" duration="1487000" />
+      <workItem from="1551936968552" duration="1573000" />
+      <workItem from="1562243624380" duration="12992000" />
+      <workItem from="1562371201024" duration="886000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HDFSIO_readFileSeek2 - 2019.03.06 at 17h 00m 12s.xml">
+      <configuration name="HDFSIO.readFileSeek2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HdfsClient_testMkdirs - 2019.07.04 at 20h 44m 25s.xml">
+      <configuration name="HdfsClient.testMkdirs" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HdfsClient_testMkdirs - 2019.07.04 at 20h 46m 22s.xml">
+      <configuration name="HdfsClient.testMkdirs" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HdfsDelete_testDelete - 2019.07.04 at 20h 53m 54s.xml">
+      <configuration name="HdfsDelete.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HdfsRename_testRename - 2019.07.05 at 09h 16m 03s.xml">
+      <configuration name="HdfsRename.testRename" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HdfsListFiles_testListFiles - 2019.07.05 at 09h 25m 22s.xml">
+      <configuration name="HdfsListFiles.testListFiles" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HdfsJudge_testJudge - 2019.07.05 at 09h 31m 57s.xml">
+      <configuration name="HdfsJudge.testJudge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HdfsJudge_testJudge - 2019.07.05 at 09h 32m 19s.xml">
+      <configuration name="HdfsJudge.testJudge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HdfsToHDFS_testToHDFS - 2019.07.05 at 09h 50m 22s.xml">
+      <configuration name="HdfsToHDFS.testToHDFS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HdfsFromHDFS_testFromHDFS - 2019.07.05 at 14h 15m 25s.xml">
+      <configuration name="HdfsFromHDFS.testFromHDFS" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40846000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24061662" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="设计器" order="6" />
+      <window_info id="Designer" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3582296" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39972338" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32918397" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32918397" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32918397" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32918397" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="调试" order="13" weight="0.32963988" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="调色板" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Palette" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hdfs-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/hdfs-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDFS.iml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="14" selection-end-line="7" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs/HDFSClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs/HDFSIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="94" column="64" selection-start-line="94" selection-start-column="64" selection-end-line="94" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsDelete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="21" column="93" selection-start-line="21" selection-start-column="93" selection-end-line="21" selection-end-column="93" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsRename.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsListFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsToHDFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsFromHDFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" column="85" selection-start-line="27" selection-start-column="85" selection-end-line="27" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsReadBig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yy/hdfs2/HdfsJudge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="25" column="71" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
